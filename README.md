@@ -1,7 +1,7 @@
 # S3Ware.Guillotine
 
 A staged guillotine cutting optimiser for rectangular pieces on stock sheets, written in C# for .NET 8 with no
-dependencies. It was built for glass cutting tables and beam saws / routers at [S3Ware](https://www.s3ware.com.au)
+dependencies. It was built for glass cutting tables and beam saws / routers at [S3Ware](https://www.s3ware.com)
 and released under the MIT licence.
 
 A sheet is cut into strips (X cuts), a strip into rows (Y cuts), a row into pieces side by side (Z cuts) and,
